@@ -1,0 +1,6 @@
+{
+  "name": "Verdant",
+  "description": "Minimal personal finance and expense tracking app with budgets, analytics, savings goals, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
